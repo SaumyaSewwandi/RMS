@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2886EF2B-A1F0-4A0F-B37E-858D9B3B7E23}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Restaurant_MS_Final</RootNamespace>
+    <AssemblyName>Restaurant MS-Final</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Desktop\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrator.Designer.cs">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_AddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_AddUser.Designer.cs">
+      <DependentUpon>UC_A_AddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_Dashboard.Designer.cs">
+      <DependentUpon>UC_A_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_Profile.Designer.cs">
+      <DependentUpon>UC_A_Profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_ViewUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AdministratorUC\UC_A_ViewUser.Designer.cs">
+      <DependentUpon>UC_A_ViewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DGVPrinter.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="function.cs" />
+    <Compile Include="Load.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Load.Designer.cs">
+      <DependentUpon>Load.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Registation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registation.Designer.cs">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reserve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reserve.Designer.cs">
+      <DependentUpon>Reserve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationUC\UC_CustomerInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReservationUC\UC_CustomerInfo.Designer.cs">
+      <DependentUpon>UC_CustomerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_Details.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_Details.Designer.cs">
+      <DependentUpon>UC_C_Details.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_Reservation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_Reservation.Designer.cs">
+      <DependentUpon>UC_C_Reservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Restaurant1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Restaurant1.Designer.cs">
+      <DependentUpon>Restaurant1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_AddFood.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_AddFood.Designer.cs">
+      <DependentUpon>UC_R_AddFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_Dashboard.Designer.cs">
+      <DependentUpon>UC_R_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_PlaceOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_PlaceOrder.Designer.cs">
+      <DependentUpon>UC_R_PlaceOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_UpdateFood.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_UpdateFood.Designer.cs">
+      <DependentUpon>UC_R_UpdateFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_ViewFood.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RestaurantUC\UC_R_ViewFood.Designer.cs">
+      <DependentUpon>UC_R_ViewFood.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sendCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sendCode.Designer.cs">
+      <DependentUpon>sendCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_CusDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReservationUC\UC_C_CusDetails.Designer.cs">
+      <DependentUpon>UC_C_CusDetails.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Administrator.resx">
+      <DependentUpon>Administrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministratorUC\UC_A_AddUser.resx">
+      <DependentUpon>UC_A_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministratorUC\UC_A_Dashboard.resx">
+      <DependentUpon>UC_A_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministratorUC\UC_A_Profile.resx">
+      <DependentUpon>UC_A_Profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdministratorUC\UC_A_ViewUser.resx">
+      <DependentUpon>UC_A_ViewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Load.resx">
+      <DependentUpon>Load.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Registation.resx">
+      <DependentUpon>Registation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationUC\UC_CustomerInfo.resx">
+      <DependentUpon>UC_CustomerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationUC\UC_C_Details.resx">
+      <DependentUpon>UC_C_Details.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationUC\UC_C_Reservation.resx">
+      <DependentUpon>UC_C_Reservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reserve.resx">
+      <DependentUpon>Reserve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Restaurant1.resx">
+      <DependentUpon>Restaurant1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantUC\UC_R_AddFood.resx">
+      <DependentUpon>UC_R_AddFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantUC\UC_R_Dashboard.resx">
+      <DependentUpon>UC_R_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantUC\UC_R_PlaceOrder.resx">
+      <DependentUpon>UC_R_PlaceOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantUC\UC_R_UpdateFood.resx">
+      <DependentUpon>UC_R_UpdateFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RestaurantUC\UC_R_ViewFood.resx">
+      <DependentUpon>UC_R_ViewFood.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sendCode.resx">
+      <DependentUpon>sendCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservationUC\UC_C_CusDetails.resx">
+      <DependentUpon>UC_C_CusDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

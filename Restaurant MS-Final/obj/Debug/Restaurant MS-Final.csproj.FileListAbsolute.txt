@@ -1,0 +1,92 @@
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csprojAssemblyReference.cache
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Administrator.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_AddUser.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Dashboard.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Profile.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_ViewUser.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Form1.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Properties.Resources.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Registation.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_CustomerInfo.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Details.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Reservation.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_AddFood.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_Dashboard.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_PlaceOrder.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_UpdateFood.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_ViewFood.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.GenerateResource.cache
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CoreCompileInputs.cache
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe.config
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.pdb
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Guna.UI2.dll
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CopyComplete
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.exe
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.pdb
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.ResetPassword.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.sendCode.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Load.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reserve.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Restaurant1.resources
+C:\Users\Thilini Chamika\source\repos\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.UC_C_CusDetails.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe.config
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.pdb
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csprojAssemblyReference.cache
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Administrator.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_AddUser.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Dashboard.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Profile.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_ViewUser.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Form1.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Load.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Properties.Resources.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Registation.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_CustomerInfo.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Details.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Reservation.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reserve.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Restaurant1.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_AddFood.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_Dashboard.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_PlaceOrder.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_UpdateFood.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_ViewFood.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.sendCode.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.UC_C_CusDetails.resources
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.GenerateResource.cache
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CoreCompileInputs.cache
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CopyComplete
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.exe
+C:\Users\Thilini Chamika\Desktop\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.pdb
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe.config
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.exe
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\bin\Debug\Restaurant MS-Final.pdb
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.AssemblyReference.cache
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Administrator.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_AddUser.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Dashboard.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_Profile.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.AdministratorUC.UC_A_ViewUser.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Form1.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Load.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Properties.Resources.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Registation.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_CustomerInfo.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Details.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reservation.UC_C_Reservation.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Reserve.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.Restaurant1.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_AddFood.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_Dashboard.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_PlaceOrder.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_UpdateFood.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.RestaurantUC.UC_R_ViewFood.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.sendCode.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant_MS_Final.UC_C_CusDetails.resources
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.GenerateResource.cache
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CoreCompileInputs.cache
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.csproj.CopyComplete
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.exe
+D:\My Projects\Restaurant MS-Final\Restaurant MS-Final\obj\Debug\Restaurant MS-Final.pdb
